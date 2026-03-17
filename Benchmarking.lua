@@ -2,8 +2,7 @@
 
 Benchmarking module (measure how fast your code is)
 
-This module © 2021 by Vaschex is licensed under CC BY-NC 4.0. 
-https://creativecommons.org/licenses/by-nc/4.0/
+Created by bstummer
 
 ]]
 
